@@ -1,4 +1,17 @@
-### Hi there 👋
+
+```   _____
+  /     \            hi there     
+  vvvvvvv  /|__/|                   
+     I   /O,O   |                   
+     I /_____   |      /|/|         
+    J|/^ ^ ^ \  |    /00  |    _//| 
+     |^ ^ ^ ^ |W|   |/^^\ |   /oo | 
+      \m___m__|_|    \m_m_|   \mm_| 
+  
+ breathe deeply 
+  ```
+  
+> *The union of the mathematician with the poet, fervor with measure, passion with correctness, this surely is the ideal." ~William James*
 
 <!--
 **axiomista/axiomista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
