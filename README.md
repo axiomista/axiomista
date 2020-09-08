@@ -11,7 +11,8 @@
  breathe deeply 
   ```
   
-> *The union of the mathematician with the poet, fervor with measure, passion with correctness, this surely is the ideal." ~William James*
+> *The union of the mathematician with the poet, fervor with measure, passion with correctness, this surely is the ideal." 
+~William James*
 
 <!--
 **axiomista/axiomista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
